@@ -1,0 +1,109 @@
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.AssemblyReference.cache
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\bin\Debug\TournamentManagement.exe.config
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\bin\Debug\TournamentManagement.exe
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\bin\Debug\TournamentManagement.pdb
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Admin.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Login.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Properties.Resources.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.welcome.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.GenerateResource.cache
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.CoreCompileInputs.cache
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.exe
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.pdb
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.AboutUs.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Form1.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Recharge.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.UsersHome.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\Interop.WMPLib.dll
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.ResolveComReference.cache
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.vedio.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\bin\Debug\Interop.WMPLib.dll
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamManagmentLogin.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Account.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Details.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Bkash.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.BuyTicket.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Nogod.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Upay.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Setting.resources
+G:\TournamentManagement\TournamentManagement\bin\Debug\TournamentManagement.exe.config
+G:\TournamentManagement\TournamentManagement\bin\Debug\TournamentManagement.exe
+G:\TournamentManagement\TournamentManagement\bin\Debug\TournamentManagement.pdb
+G:\TournamentManagement\TournamentManagement\bin\Debug\Interop.WMPLib.dll
+G:\TournamentManagement\TournamentManagement\bin\Debug\AxInterop.WMPLib.dll
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.AssemblyReference.cache
+G:\TournamentManagement\TournamentManagement\obj\Debug\Interop.WMPLib.dll
+G:\TournamentManagement\TournamentManagement\obj\Debug\AxInterop.WMPLib.dll
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.ResolveComReference.cache
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.AboutUs.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Account.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Admin.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Bkash.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.BuyTicket.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Details.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Form1.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Login.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Nogod.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Properties.Resources.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Recharge.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Setting.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamManagment.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamManagmentLogin.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Upay.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.UsersHome.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.vedio.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.welcome.resources
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.GenerateResource.cache
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.CoreCompileInputs.cache
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.exe
+G:\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.pdb
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamA.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamB.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamC.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamD.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamE.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamF.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamG.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.ManagerInformation.resources
+C:\Users\najib\Desktop\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.UserInformation.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\bin\Debug\TournamentManagement.exe.config
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\bin\Debug\TournamentManagement.exe
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\bin\Debug\TournamentManagement.pdb
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\bin\Debug\Interop.WMPLib.dll
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.AssemblyReference.cache
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\Interop.WMPLib.dll
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.ResolveComReference.cache
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.AboutUs.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Account.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Admin.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Bkash.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.BuyTicket.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Details.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Form1.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Login.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.ManagerInformation.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Nogod.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Properties.Resources.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Recharge.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Setting.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamA.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamB.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamC.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamD.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamE.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamF.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamG.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.TeamManagmentLogin.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.Upay.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.UserInformation.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.UsersHome.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.vedio.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.welcome.resources
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.GenerateResource.cache
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.csproj.CoreCompileInputs.cache
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.exe
+C:\Users\najib\Desktop\New folder (2)\TournamentManagement\TournamentManagement\obj\Debug\TournamentManagement.pdb

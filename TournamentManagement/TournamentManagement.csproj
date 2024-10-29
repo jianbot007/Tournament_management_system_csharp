@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E9E96332-FF68-4159-95B6-833DE2F6924E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TournamentManagement</RootNamespace>
+    <AssemblyName>TournamentManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutUs.Designer.cs">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account.Designer.cs">
+      <DependentUpon>Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bkash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bkash.Designer.cs">
+      <DependentUpon>Bkash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuyTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuyTicket.Designer.cs">
+      <DependentUpon>BuyTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Details.Designer.cs">
+      <DependentUpon>Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerInformation.Designer.cs">
+      <DependentUpon>ManagerInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nogod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nogod.Designer.cs">
+      <DependentUpon>Nogod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recharge.Designer.cs">
+      <DependentUpon>Recharge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting.Designer.cs">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamA.Designer.cs">
+      <DependentUpon>TeamA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamB.Designer.cs">
+      <DependentUpon>TeamB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamC.Designer.cs">
+      <DependentUpon>TeamC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamD.Designer.cs">
+      <DependentUpon>TeamD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamE.Designer.cs">
+      <DependentUpon>TeamE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamF.Designer.cs">
+      <DependentUpon>TeamF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamG.Designer.cs">
+      <DependentUpon>TeamG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamManagmentLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamManagmentLogin.Designer.cs">
+      <DependentUpon>TeamManagmentLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upay.Designer.cs">
+      <DependentUpon>Upay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInformation.Designer.cs">
+      <DependentUpon>UserInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsersHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersHome.Designer.cs">
+      <DependentUpon>UsersHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vedio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vedio.Designer.cs">
+      <DependentUpon>vedio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome.Designer.cs">
+      <DependentUpon>welcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutUs.resx">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Account.resx">
+      <DependentUpon>Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bkash.resx">
+      <DependentUpon>Bkash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyTicket.resx">
+      <DependentUpon>BuyTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Details.resx">
+      <DependentUpon>Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerInformation.resx">
+      <DependentUpon>ManagerInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nogod.resx">
+      <DependentUpon>Nogod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Recharge.resx">
+      <DependentUpon>Recharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting.resx">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamA.resx">
+      <DependentUpon>TeamA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamB.resx">
+      <DependentUpon>TeamB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamC.resx">
+      <DependentUpon>TeamC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamD.resx">
+      <DependentUpon>TeamD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamE.resx">
+      <DependentUpon>TeamE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamF.resx">
+      <DependentUpon>TeamF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamG.resx">
+      <DependentUpon>TeamG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamManagmentLogin.resx">
+      <DependentUpon>TeamManagmentLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upay.resx">
+      <DependentUpon>Upay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInformation.resx">
+      <DependentUpon>UserInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersHome.resx">
+      <DependentUpon>UsersHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vedio.resx">
+      <DependentUpon>vedio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome.resx">
+      <DependentUpon>welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
